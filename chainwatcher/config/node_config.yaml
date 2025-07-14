@@ -1,0 +1,2 @@
+# config/node_config.yaml
+rpc_url: "https://ethereum-sepolia.publicnode.com"
