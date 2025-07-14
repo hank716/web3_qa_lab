@@ -4,7 +4,7 @@ This project is a career-oriented learning and practice record for Web3 test eng
 
 1. Blockchain node testing (chainwatcher)
 
-2. Smart contract testing (contract-tester, to be built)
+2. Smart contract testing (contract-tester)
 
 3. DApp test integration (web3-voting-dapp, to be built)
 
