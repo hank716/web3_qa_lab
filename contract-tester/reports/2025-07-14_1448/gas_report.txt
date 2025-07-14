@@ -1,0 +1,10 @@
+No files changed, compilation skipped
+
+Ran 4 tests for test/VotingTest.t.sol:VotingTest
+[PASS] testMultipleVotesDifferentUsers() (gas: 88035)
+[PASS] testRejectDoubleVoteSameUser() (gas: 57068)
+[PASS] testVoteEmitsEvent() (gas: 57077)
+[PASS] testVoteIncreasesCount() (gas: 57119)
+Suite result: ok. 4 passed; 0 failed; 0 skipped; finished in 1.67ms (1.13ms CPU time)
+
+Ran 1 test suite in 9.32ms (1.67ms CPU time): 4 tests passed, 0 failed, 0 skipped (4 total tests)
