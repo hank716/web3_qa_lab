@@ -6,11 +6,7 @@ This project is a career-oriented learning and practice record for Web3 test eng
 
 2. Smart contract testing (contract-tester)
 
-3. DApp test integration (web3-voting-dapp, to be built)
-
-4. Automated testing framework and CI/CD (chainwatcher-tests, to be built)
-
-5. Blockchain data verification tool (block-audit-tool, to be built)
+3. Blockchain data verification tool (block-audit-tool, to be built)
 
 📂 Subfolder description:
 - `chainwatcher/`: Test node RPC response and synchronization status

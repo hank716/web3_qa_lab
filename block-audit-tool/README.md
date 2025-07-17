@@ -1,32 +1,32 @@
 # block-audit-tool
 
-驗證區塊鏈節點資料與區塊瀏覽器是否一致，並支援自動產生 JSON 報告。
+Verify whether the blockchain node data is consistent with the block browser, and support automatic generation of JSON reports.
 
-## 安裝與啟動
+## Installation and startup
 
 ```bash
 conda env create -f environment.yml
 conda activate block-audit-env
 ```
 
-## 執行功能
+## Execution function
 
-- 抓取區塊資料：
+- Fetch block data:
 ```bash
 python scripts/fetch_block.py
 ```
 
-- 比對節點與 Etherscan：
+- Compare nodes with Etherscan:
 ```bash
 python scripts/compare_data.py
 ```
 
-- 執行自動排程監控（每 10 分鐘）：
+- Execute automatic scheduled monitoring (every 10 minutes):
 ```bash
 python monitor/monitor_runner.py
 ```
 
-- 執行 pytest 並輸出報告：
+- Execute pytest and output report:
 ```bash
 python -m pytest tests/
 ```
