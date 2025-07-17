@@ -1,0 +1,7 @@
+web3
+requests
+pandas
+schedule
+python-dotenv
+PyYAML
+pytest

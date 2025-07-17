@@ -1,0 +1,4 @@
+VotingTest:testMultipleVotesDifferentUsers() (gas: 132459)
+VotingTest:testRejectDoubleVoteSameUser() (gas: 79269)
+VotingTest:testVoteEmitsEvent() (gas: 79278)
+VotingTest:testVoteIncreasesCount() (gas: 79342)

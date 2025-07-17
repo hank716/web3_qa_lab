@@ -1,0 +1,14 @@
+name: block-audit-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - web3
+      - requests
+      - pandas
+      - schedule
+      - python-dotenv
+      - PyYAML
+      - pytest

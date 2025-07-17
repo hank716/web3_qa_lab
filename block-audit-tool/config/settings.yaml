@@ -1,0 +1,15 @@
+eth_node_rpc: "https://mainnet.infura.io/v3/YOUR_KEY"
+etherscan_api_key: "YOUR_ETHERSCAN_API_KEY"
+
+monitor:
+  contracts:
+    - name: "USDT"
+      address: "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+      events: ["Transfer"]
+
+block_range:
+  start_block: 19500000
+  end_block: 19500100
+
+output_dir: "./reports"
+log_level: "INFO"
