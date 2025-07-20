@@ -1,6 +1,6 @@
 # Web3 QA Lab
 
-This project is a career-oriented learning and practice record for Web3 test engineers, covering five major stages:
+This project is a career-oriented learning and practice record for Web3 test engineers, covering three major stages:
 
 1. Blockchain node testing (chainwatcher)
 
